@@ -19,7 +19,7 @@ A variety of tasks provided to me by my lecturer [Ian McLoughlin](https://github
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/BurkeBlaine1999/Graph-Theory-Project/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/BurkeBlaine1999/Emerging-Tech---Tasks/blob/main/LICENSE) file for details
 
 ## Acknowledgments
 
