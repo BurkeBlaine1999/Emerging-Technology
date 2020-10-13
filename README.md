@@ -10,7 +10,7 @@ A variety of tasks provided to me by my lecturer [Ian McLoughlin](https://github
 
 ## Built With
 
-* [jupyter Notebook]((https://jupyter.org/)) - The text editor
+* [jupyter Notebook](https://jupyter.org/) - The text editor
 * [Python](https://www.python.org/) - Language Used
 
 ## Authors
