@@ -23,4 +23,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Acknowledgments
 
-* [Ian McLoughlin](https://github.com/ianmcloughlin) - Provided tutorial Videos to follow
+* [Ian McLoughlin](https://github.com/ianmcloughlin) - Provided the tasks to be completed
