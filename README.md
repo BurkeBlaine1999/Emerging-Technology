@@ -31,7 +31,7 @@ To view the tasks for more detail ,please view [Emerging Technology - Tasks.ipyn
 
 * Download the latest version of [python]((https://www.python.org/downloads/))
 * Download the latest version of [jupyter Notebook]((https://jupyter.org/))
-* Run on jupyter notebook
+* Run on jupyter notebook by entering comand prompt in the project directory and enter "Jupyter Notebook"
 
 ## Built With
 
